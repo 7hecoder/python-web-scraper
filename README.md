@@ -24,8 +24,9 @@ This Python web scraper fetches book data from [Books to Scrape](https://books.t
 1. **Run the Script:**:
    ```bash
    python scraper.py
-   The scraper will fetch book data from the website and save it to books.json.
-   
+
+   The scraper will fetch book data from the website and save it to books.json.   
+
 3. **View the Data:**:
    After running the script, you will have a books.json file in your project directory. Open it to view the scraped data.
 
